@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C48EE4A7-91A0-401C-AD75-7B4B2F5286B2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game Assignment 1/Properties/Resources.resx">
+    <Files>
+      <File FileName="Game Assignment 1/Program.cs" Line="1" Column="1" />
+      <File FileName="Game Assignment 1/Form1.Designer.cs" Line="1" Column="1" />
+      <File FileName="Game Assignment 1/EndGame.Designer.cs" Line="1" Column="1" />
+      <File FileName="Game Assignment 1/EndGame.cs" Line="1" Column="1" />
+      <File FileName="Game Assignment 1/Properties/Resources.resx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Game Assignment 1" expanded="True">
+            <Node name="Game Assignment 1" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="Resources.resx" selected="True" />
+              </Node>
+              <Node name="EndGame.cs" expanded="True" />
+              <Node name="Form1.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Game_220Assignment_2201 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
